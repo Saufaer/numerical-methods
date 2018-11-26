@@ -1,3 +1,5 @@
-numerical methods:
-DICHOTOMY
-FIBONACCI
+#numerical methods:
+
+##DICHOTOMY
+
+##FIBONACCI
