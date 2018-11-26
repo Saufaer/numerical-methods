@@ -1,1 +1,3 @@
-
+numerical methods:
+DICHOTOMY
+FIBONACCI
